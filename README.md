@@ -1,2 +1,2 @@
 # weisensee.github.io
-personal website
+this is a personal website for hosting projects and work I've done...
